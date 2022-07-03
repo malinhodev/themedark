@@ -2,10 +2,10 @@
 - Projeto responsível.
 - Feito em vanilla javascript.
 
-Projeto proposto pelo professor matheus battist do canal hora de codar.
+Projeto proposto pelo professor Matheus Battist do canal Hora de codar.
 
 ## Tecnologias Usadas
-- HTMML5
+- HTML5
 - CSS3
 - JAVASCRIPT
 
